@@ -216,6 +216,7 @@ value = 102;
 }
 );
 descender = -1050;
+iconName = Light_Extended;
 id = "5F193BF8-7CA4-4B03-9C32-D3F63E246964";
 weight = Light;
 weightValue = 300;
@@ -264,6 +265,7 @@ value = 102;
 }
 );
 descender = -1050;
+iconName = SemiLight_Extended;
 id = "88E61F79-9BD6-46CC-822B-E1CD1A3C2454";
 weightValue = 400;
 widthValue = 5;
@@ -311,6 +313,7 @@ value = 102;
 }
 );
 descender = -1050;
+iconName = Extended;
 id = "54E48B05-B582-4BF1-802E-1CCFA4687A45";
 weight = Bold;
 weightValue = 700;
@@ -360,6 +363,7 @@ value = 102;
 }
 );
 descender = -1050;
+iconName = Bold_Extended;
 id = "89D07B94-1C0B-43C7-A340-A8680DA5938F";
 weightValue = 900;
 widthValue = 5;
